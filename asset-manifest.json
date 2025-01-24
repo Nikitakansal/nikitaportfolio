@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Nikitapotfolio/static/css/main.385502b0.css",
+    "main.js": "/Nikitapotfolio/static/js/main.ba309225.js",
+    "static/js/453.bb828c5d.chunk.js": "/Nikitapotfolio/static/js/453.bb828c5d.chunk.js",
+    "static/media/netflixapp.png": "/Nikitapotfolio/static/media/netflixapp.b158d06373ae44495b55.png",
+    "static/media/codergirl.gif": "/Nikitapotfolio/static/media/codergirl.a50a087d3e8aad894f33.gif",
+    "static/media/nairobi.png": "/Nikitapotfolio/static/media/nairobi.ac0394ec045edde92ab9.png",
+    "static/media/fitnessgym.png": "/Nikitapotfolio/static/media/fitnessgym.186fe942bc8535a96580.png",
+    "static/media/kwitter.png": "/Nikitapotfolio/static/media/kwitter.f842ff35899cda24fd2f.png",
+    "static/media/niki.png": "/Nikitapotfolio/static/media/niki.79fe49bc68a431cd5d14.png",
+    "static/media/bw-map.jpeg": "/Nikitapotfolio/static/media/bw-map.9a72544ee56c3c1cf1ec.jpeg",
+    "static/media/white-abstract.png": "/Nikitapotfolio/static/media/white-abstract.81dfceb32cc78242923f.png",
+    "static/media/world-map.png": "/Nikitapotfolio/static/media/world-map.b6f2c25ebd3ccf8b22b1.png",
+    "static/media/voiceselfie.jpeg": "/Nikitapotfolio/static/media/voiceselfie.c15b5dcabf3d95ef74db.jpeg",
+    "static/media/overcame-outline.woff": "/Nikitapotfolio/static/media/overcame-outline.e4685dc83777a33af73c.woff",
+    "static/media/overcame-bold.woff": "/Nikitapotfolio/static/media/overcame-bold.1cbb476d06fa64bc5ee2.woff",
+    "static/media/mypuggo.png": "/Nikitapotfolio/static/media/mypuggo.aa5becafa09f7f6bfa1c.png",
+    "static/media/beckman.otf": "/Nikitapotfolio/static/media/beckman.488200807fbe24510023.otf",
+    "static/media/globe.jpg": "/Nikitapotfolio/static/media/globe.2c806af47e4a3140467b.jpg",
+    "static/media/mova.otf": "/Nikitapotfolio/static/media/mova.707cfc3dbae1078dc46e.otf",
+    "static/media/arenq.otf": "/Nikitapotfolio/static/media/arenq.9e75b52c3613e6e8a4e8.otf",
+    "static/media/github.png": "/Nikitapotfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "index.html": "/Nikitapotfolio/index.html",
+    "main.385502b0.css.map": "/Nikitapotfolio/static/css/main.385502b0.css.map",
+    "main.ba309225.js.map": "/Nikitapotfolio/static/js/main.ba309225.js.map",
+    "453.bb828c5d.chunk.js.map": "/Nikitapotfolio/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385502b0.css",
+    "static/js/main.ba309225.js"
+  ]
+}
